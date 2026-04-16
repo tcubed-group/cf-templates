@@ -11,7 +11,7 @@
 		"@cloudflare/workers-types": "^4.20241205.0",
 		"typescript": "^5.0.0",
 		"vitest": "^2.1.8",
-		"wrangler": "^3.99.0"
+		"wrangler": "^3.114.17"
 	},
 	"scripts": {
 		"dev": "wrangler dev --remote",
@@ -23,7 +23,7 @@
 		"test:watch": "vitest"
 	},
 	"dependencies": {
-		"hono": "^4.2.1",
+		"hono": "^4.12.14",
 		"workers-qb": "^0.1.1"
 	},
 	"cloudflare": {

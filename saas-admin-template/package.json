@@ -14,7 +14,7 @@
     "publish": true
   },
   "dependencies": {
-    "@astrojs/cloudflare": "13.2.0",
+    "@astrojs/cloudflare": "13.2.1",
     "@astrojs/react": "4.4.2",
     "@astrojs/tailwind": "6.0.2",
     "@hookform/resolvers": "5.2.2",
@@ -39,7 +39,7 @@
     "zod": "4.1.13"
   },
   "devDependencies": {
-    "wrangler": "4.84.1"
+    "wrangler": "4.85.0"
   },
   "engines": {
     "node": ">=22"

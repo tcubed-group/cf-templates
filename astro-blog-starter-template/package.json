@@ -16,11 +16,11 @@
 		"@astrojs/mdx": "5.0.4",
 		"@astrojs/rss": "4.0.14",
 		"@astrojs/sitemap": "3.6.1",
-		"astro": "6.1.9",
+		"astro": "6.4.4",
 		"typescript": "5.9.3"
 	},
 	"devDependencies": {
-		"wrangler": "4.84.1"
+		"wrangler": "4.97.0"
 	},
 	"engines": {
 		"node": ">=22"

@@ -24,7 +24,7 @@
 		"@types/node": "24.10.1",
 		"@types/pg": "8.15.6",
 		"typescript": "5.9.3",
-		"vitest": "3.2.4",
+		"vitest": "3.2.6",
 		"wrangler": "4.59.1"
 	},
 	"private": true,

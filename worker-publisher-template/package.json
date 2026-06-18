@@ -21,9 +21,9 @@
 		"cloudflare": "5.2.0"
 	},
 	"devDependencies": {
-		"tsx": "4.21.0",
+		"tsx": "4.22.4",
 		"typescript": "5.9.3",
-		"wrangler": "4.84.1"
+		"wrangler": "4.102.0"
 	},
 	"private": true,
 	"scripts": {
